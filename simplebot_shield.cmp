@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-09 BZR 5259)-product   date = Thu 13 Nov 2014 16:42:52 AEDT
+
+BeginCmp
+TimeStamp = /54606A8F;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54603C68;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54606C0A;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54606733;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462FA3E;
+Reference = C5;
+ValeurCmp = 100uF 16V;
+IdModule  = FT:E2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5463F85F;
+Reference = C6;
+ValeurCmp = 100uF 25V;
+IdModule  = FT:E2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462DE76;
+Reference = JP1;
+ValeurCmp = M02;
+IdModule  = FT:SCREWTERMINAL-5MM-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462DE3B;
+Reference = JP2;
+ValeurCmp = M02;
+IdModule  = FT:SCREWTERMINAL-5MM-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462DE01;
+Reference = JP3;
+ValeurCmp = M02;
+IdModule  = FT:SCREWTERMINAL-5MM-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462DDBA;
+Reference = JP4;
+ValeurCmp = M02;
+IdModule  = FT:SCREWTERMINAL-5MM-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462DA8B;
+Reference = JP5;
+ValeurCmp = M02;
+IdModule  = FT:SCREWTERMINAL-5MM-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF102;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF4ED;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF234;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF505;
+Reference = K4;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF37C;
+Reference = K5;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FF51D;
+Reference = K6;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54602199;
+Reference = LDR1;
+ValeurCmp = PHOTORES_LDR;
+IdModule  = FT:CAP-PTH-SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54602C50;
+Reference = LED1;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54606726;
+Reference = LED2;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54606A82;
+Reference = LED3;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54606BFD;
+Reference = LED4;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /546446BC;
+Reference = P1;
+ValeurCmp = CONN_3;
+IdModule  = FT:1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5460811E;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = FT:FT_MODULE_IMU9;
+EndCmp
+
+BeginCmp
+TimeStamp = /546094E1;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = FT:1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54628C68;
+Reference = P6;
+ValeurCmp = CONN_4;
+IdModule  = FT:1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FFAAA;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = FT:RES_AXIAL_400MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5463FC3F;
+Reference = REG1;
+ValeurCmp = LM7806CT;
+IdModule  = FT:TO220-IGO;
+EndCmp
+
+BeginCmp
+TimeStamp = /545FEFD2;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5460CFC9;
+Reference = SW1;
+ValeurCmp = BUTTON;
+IdModule  = FT:TACTILE-PTH;
+EndCmp
+
+EndListe
