@@ -247,8 +247,6 @@ F 3 "" H 10150 4400 60  0000 C CNN
 $EndComp
 Text Label 9950 4750 0    59   ~ 0
 A0
-Text Label 10150 4050 1    79   ~ 0
-AREF
 $Comp
 L GND #PWR08
 U 1 1 5460255F
@@ -1322,4 +1320,16 @@ F 3 "" H 4700 6300 60  0000 C CNN
 $EndComp
 Text Notes 4850 7100 0    79   ~ 0
 Last LED Output\nfor additional\nstrips, etc.
+$Comp
+L IORef #PWR046
+U 1 1 5475C8BE
+P 10150 3950
+F 0 "#PWR046" H 10150 3910 30  0001 C CNN
+F 1 "IORef" H 10150 4060 30  0000 C CNN
+F 2 "" H 10150 3950 60  0000 C CNN
+F 3 "" H 10150 3950 60  0000 C CNN
+	1    10150 3950
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4150 1800
 $EndSCHEMATC
